@@ -1,0 +1,48 @@
+*, 
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(180, 176, 176);
+    margin: 0;
+    padding: 0;
+
+}
+
+.CV-KU {
+    background-color: rgb(42, 42, 229);
+    margin: 20px;
+    padding: 0px;
+}
+
+.profil-cv {
+    background-color: red;
+    height: 10vh;
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.isi-informasi {
+    margin-left: 50px;
+
+}
+
+.sedia {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.ISI-KU {
+    margin-top: 20px;
+}
+
